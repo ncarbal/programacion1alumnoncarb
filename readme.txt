@@ -11,3 +11,5 @@ Verificar que en settings.py estén registradas las apps necesarias (rest_framew
 Aplicar las migraciones con python manage.py migrate.
 Ejecutar el servidor con python manage.py runserver.
 Acceder desde el navegador a http://127.0.0.1:8000/
+
+Se modifica readme
